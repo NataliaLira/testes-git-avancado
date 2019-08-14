@@ -1,7 +1,8 @@
 <?php
 
-    $dsn = 'mysql:host=localhost;dbname=aula_pdo;charset=utf8mb4;port=3306';
+    $dsn = 'mysql:host=www.facebook.com/perfil;dbname=fs3_hello;port=8000';
     $db_user = 'root';
+    popopo
     $db_pass = '03v01t96m';
 
     try {
