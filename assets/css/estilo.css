@@ -1,0 +1,22 @@
+.carousel-item img {
+  max-height: 600px;
+}
+
+.container form textarea {
+  resize: none;
+}
+
+div.container {
+  min-height: calc(100vh - 194px);
+}
+
+.name-user {
+  color: #fff;
+  font-size: 18px;
+}
+
+footer div {
+  color: #fff;
+  height: 100px;
+  line-height: 100px;
+}
